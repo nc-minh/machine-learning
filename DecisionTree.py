@@ -20,7 +20,6 @@ m_featured = [
     [3, 1, 1, 3]
 ]
 
-
 m_label = [0, 1, 1, 0 ,0 ,0 , 0, 1]
 
 result = my_stree.fit(m_featured, m_label)
